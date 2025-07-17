@@ -1,0 +1,7 @@
+{
+  "name": "Marcus",
+  "age": 30,
+  "email": "marcus@email.com",
+  "isActive": true,
+  "city": "Chicago"
+}

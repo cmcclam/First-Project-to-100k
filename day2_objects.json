@@ -1,0 +1,23 @@
+{
+"name": "Kenya Wallace",
+"age": 41,
+"Downtown Fitness Club": true,
+"phone number": null,
+"isEnrolled": false
+}
+
+{
+"product name": "Focus Builder:Guided Journal",
+"price": 14.99,
+"available for purchase": true,
+"buyer limit": null,
+"currency": "USD"
+}
+
+{
+"submitted by": "Leslie Harper",
+"rating": 5,
+"Recommend": true,
+"Submitted via Mobile": false,
+"comment": null
+}
